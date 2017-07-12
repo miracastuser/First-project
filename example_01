@@ -1,0 +1,9 @@
+#includ<studio.h>
+#define rangemax 100
+#define subscript ((x>=y))
+void testgithub(int x,int y,struct my_stu);
+void main(int argvs,char args[])
+{
+   ...
+
+}
